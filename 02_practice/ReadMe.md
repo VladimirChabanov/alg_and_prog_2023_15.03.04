@@ -6,6 +6,8 @@
 
 - **Практика №3: https://contest.yandex.ru/contest/60272/problems/**
 
+- **Практика №4: https://contest.yandex.ru/contest/61193/problems/**
+
 <br>
 
 Чтобы получить доступ к практическим и самостоятельным заданиям заполните [форму](https://docs.google.com/forms/d/e/1FAIpQLScDilZL5vCsdFUPQC8H8AukhPGs2uMIK4SvOseJyEgn8lnZ2A/viewform?usp=sf_link).
